@@ -1,0 +1,11 @@
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\Ukol1znaky\Ukol1znaky\bin\Debug\Ukol1znaky.exe.config
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\Ukol1znaky\Ukol1znaky\bin\Debug\Ukol1znaky.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\Ukol1znaky\Ukol1znaky\bin\Debug\Ukol1znaky.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\Ukol1znaky\Ukol1znaky\obj\Debug\Ukol1znaky.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\Ukol1znaky\Ukol1znaky\obj\Debug\Ukol1znaky.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\Ukol1znaky\Ukol1znaky\obj\Debug\Ukol1znaky.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\Ukol1znaky\Ukol1znaky\obj\Debug\Ukol1znaky.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\Ukol1znaky\Ukol1znaky\obj\Debug\Ukol1znaky.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\Ukol1znaky\Ukol1znaky\obj\Debug\Ukol1znaky.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\Ukol1znaky\Ukol1znaky\obj\Debug\Ukol1znaky.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\BINARNI SOUBORY\Ukol1znaky\Ukol1znaky\obj\Debug\Ukol1znaky.Form1.resources
